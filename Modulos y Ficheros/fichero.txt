@@ -1,0 +1,5 @@
+Una línea con texto
+Otra linea con texto
+Otra línea más con texto 
+ Cuarta línea del fichero
+ Cuarta línea del fichero
